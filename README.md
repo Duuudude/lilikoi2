@@ -8,7 +8,7 @@ Previously we developed Lilikoi, a personalized pathway-based method to classify
 install.packages("lilikoi")
 
 # Or for the latest dev version:
-devtools::install_github("lanagarmire/lilikoi2")
+devtools::install_github("Duuudude/lilikoi2")
 ```
 
 ## Example
